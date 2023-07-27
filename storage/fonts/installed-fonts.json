@@ -1,0 +1,16 @@
+{
+    "montserrat": {
+        "normal": "montserrat_normal_b74b751c20b429298921949795391ef1"
+    },
+    "tangerine": {
+        "normal": "tangerine_normal_19ce16c8d386f49ccf94be2beb5587b6"
+    },
+    "open sans": {
+        "300": "C:\\Projects\\sahayonetimi\\storage\\fonts\/open_sans_300_1d6849e351b30d7d7fb264a1878f4b3a",
+        "normal": "C:\\Projects\\sahayonetimi\\storage\\fonts\/open_sans_normal_e3f9da90edb379e243cceabb2fdb3f0a",
+        "600": "C:\\Projects\\sahayonetimi\\storage\\fonts\/open_sans_600_2a60ebfba7bda514848a0bbbd15b621a",
+        "bold": "C:\\Projects\\sahayonetimi\\storage\\fonts\/open_sans_bold_074d893389082c36506eb383f9ca70e7",
+        "500": "C:\\Projects\\sahayonetimi\\storage\\fonts\/open_sans_500_206276ec5153db0ed3baebdafc92e714",
+        "800": "open_sans_800_ff3fba9a9fc2a96112903cfc411756fd"
+    }
+}

@@ -1,0 +1,19 @@
+# Rut Tanımlama
+    - Personel
+    - Satış Noktası
+    - Şube
+    - Gün 
+    - Sırası
+    - Silinme Tarihi -> Rutlarda yapılan herhangi bir değişiklikte tüm rutlar silinir.
+
+# Satış Temsilcisi Ekranı
+    - Rutlar
+        - Rutlar gün ve sıra bazında dizilir.
+        - Ziyaret süreçleri kaydedilir.
+        - Gün içindeyken rutlar tekrar tanımlanırsa 
+        - Yeni rut listesinden ziyaret edilen satış noktaları çıkartılır.
+        - Geri kalan rutlar günlere tekrar atanır.
+
+# Raporlama
+    - Hafta bazında tarihler bölünür.
+    - Rut listesinden oluşturma tarihi, tarihten daha küçük olanlar ve silinme tarihinin o günden küçük olması.
