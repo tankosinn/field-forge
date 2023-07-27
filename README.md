@@ -50,11 +50,3 @@ Tema: https://github.com/creativetimofficial/soft-ui-dashboard
 ## Lisans
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-=======
-
-# sahayonetimi
-
-Saha Yönetimi
-
-> > > > > > > origin/main
