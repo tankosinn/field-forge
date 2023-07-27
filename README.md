@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
@@ -57,3 +58,7 @@ Tema: https://github.com/creativetimofficial/soft-ui-dashboard
 [MIT](https://choosealicense.com/licenses/mit/)
 
   
+=======
+# sahayonetimi
+Saha Yönetimi
+>>>>>>> origin/main
