@@ -8,7 +8,7 @@
               Copyright © <script>
                 document.write(new Date().getFullYear())
               </script> |
-              <a style="color: #252f40;" href="{{ url('/') }}" class="font-weight-bold ml-1">Sahayonetimi.com</a>.
+              <a style="color: #252f40;" href="{{ url('/') }}" class="font-weight-bold ml-1">Field Forge</a>.
             </p>
           </div>
         </div>

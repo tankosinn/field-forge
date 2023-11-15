@@ -115,7 +115,7 @@
                 </div>
             </th>
             <th style="width: 50%; text-align: center; font-size:16px;vertical-align: middle;">
-                <span class="font-weight-normal" style="font-size: 14px;">Saha Yönetimi</span>
+                <span class="font-weight-normal" style="font-size: 14px;">Field Forge</span>
                 <div>
                     Yerel Zincir
                 </div>

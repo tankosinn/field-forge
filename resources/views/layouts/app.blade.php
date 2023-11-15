@@ -24,7 +24,7 @@
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <link rel="icon" href="{{$base_url}}/assets/img/favicon.ico">
   <title>
-    Saha Yönetimi
+    Field Forge
   </title>
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />

@@ -9,7 +9,7 @@
           <div class="col-xl-4 col-lg-5 col-md-6 d-flex flex-column mx-auto">
             <div class="card mt-8">
               <div class="card-header pb-0 text-left bg-transparent">
-                <h3 class="font-weight-bolder text-info text-gradient">Saha Yönetimi</h3>
+                <h3 class="font-weight-bolder text-info text-gradient">Field Forge</h3>
                 <p class="mb-0">Hoş geldin! Firman tarafından sana iletilen bilgiler ile giriş yapabilirsin.<br></p>
               </div>
               <div class="card-body">
